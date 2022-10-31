@@ -23,8 +23,6 @@ function App() {
   </a>*/}
  
   <Home />
-
-  
       </header>
     </div>
   );
