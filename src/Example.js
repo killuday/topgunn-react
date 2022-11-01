@@ -9,6 +9,8 @@ export default function example(props) {
 }
 
 example.defaultProps={
+    title:'Happy birthday Lil Peep ',
+    title:'A small tribute ',
     title:'On prod mode...........................'
 
 }
