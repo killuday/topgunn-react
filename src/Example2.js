@@ -3,12 +3,12 @@ import React from 'react'
 export default function Example2(props) {
   return (
     <div >
-        <h1 style={{color:"crimson"}}>{props.title}</h1>
+        <h2 style={{color:'#61DBFB',fontFamily: 'Poor Story'}}>{props.title}</h2>
     </div>
   )
 }
 
 Example2.defaultProps={
-  title:'Second component using default props'
+  title:'RIP Lil Peep '
 
 }
