@@ -23,6 +23,7 @@ function App() {
   </a>*/}
  
   <Home />
+  <Example />
       </header>
     </div>
   );
