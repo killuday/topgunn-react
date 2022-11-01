@@ -17,7 +17,7 @@ export default class Home extends React.Component{
     render(){
         return(
             <div>
-                <h1 style={{color:"#61DBFB",fontFamily:"cursive"}}>A Tribute to Takeoff</h1>
+                <h1 style={{color:"#61DBFB",fontFamily:"cursive"}}>A Homage To Takeoff</h1>
                 <h2 style={{color:"#61DBFB"}}>{new Date().toLocaleTimeString()}</h2>
                 
             </div>
