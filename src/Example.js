@@ -3,7 +3,7 @@ import React from 'react'
 export default function example(props) {
   return (
     <div>
-        <h1 style={{color:'#61DBFB'}}>{props.title}</h1>
+        <h2 style={{color:'#61DBFB',fontFamily: 'Poor Story', cursive}}>{props.title}</h2>
     </div>
   )
 }
