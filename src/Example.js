@@ -9,6 +9,6 @@ export default function example(props) {
 }
 
 example.defaultProps={
-    title:'On production mode...........................'
+    title:''
 
 }

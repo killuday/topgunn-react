@@ -9,6 +9,6 @@ export default function Example2(props) {
 }
 
 Example2.defaultProps={
-  title:'RIP Lil Peep '
+  title:'Rest In Peace '
 
 }
